@@ -1,2 +1,2 @@
 # KamiGTK
-A limited scope project using the GTK GUI toolkit in Linux
+A limited scope project using the GTK GUI toolkit in Linux Ubuntu
